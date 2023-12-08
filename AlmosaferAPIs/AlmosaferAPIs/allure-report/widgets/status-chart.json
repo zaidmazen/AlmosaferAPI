@@ -1,0 +1,1 @@
+[{"uid":"fdb7fad18491460f","name":"Test Currency API","time":{"start":1701883117589,"stop":1701883118520,"duration":931},"status":"passed","severity":"critical"},{"uid":"22d32d2b112e0539","name":"Test CMS Page Data API","time":{"start":1701883115988,"stop":1701883117536,"duration":1548},"status":"passed","severity":"critical"}]
